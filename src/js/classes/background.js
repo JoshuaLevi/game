@@ -3,6 +3,10 @@ import {Resources} from '/src/js/resources.js/';
 
 
 export class Background extends Actor {
+    constructor(background, number) {
+        super();
+    }
+
 
     offset
 
